@@ -1,0 +1,60 @@
+{
+  "title":"Descubra qual Salvatore você seria com nosso quiz exclusivo! Responda as perguntas envolventes e descubra se você é mais parecido com o irresistível Damon ou com o sensível Stefan Salvatore?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Noite ou Dia? ",
+      "options":[
+        {"id": 1, "name":"Adoro a noite e toda a sua misteriosa sedução", "alias":"A"},
+        {"id": 2, "name":"Prefiro a luz do dia e suas oportunidades renovadas.", "alias":"B"}
+        
+      ]
+    },
+    {
+      "id":2,
+      "question": "Como você lida com o amor?",
+      "options":[
+        {"id": 1, "name":"Sou um conquistador nato, com charme e magnetismo.", "alias":"A"},
+        {"id": 2, "name":"Prefiro amar profundamente e me entregar completamente.", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":3,
+      "question": "Como você prefere passar o tempo?",
+      "options":[
+        {"id": 1, "name":"Festejando e aproveitando a vida ao máximo.", "alias":"A"},
+        {"id": 2, "name":" Refletindo sobre as escolhas e buscando a paz interior.", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":4,
+      "question": "Escolha uma citação?",
+      "options":[
+        {"id": 1, "name":"A vida é curta, beba do copo da eternidade.", "alias":"A"},
+        {"id": 2, "name":"A humanidade é frágil, e devemos protegê-la.", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Escolha uma música?",
+      "options":[
+        {"id": 1, "name":"Rock ou algo mais rebelde.", "alias":"A"},
+        {"id": 2, "name":"Música clássica ou algo mais suave.", "alias":"B"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Como você se vê em um grupo?",
+      "options":[
+        {"id": 1, "name":"O centro das atenções, sempre.", "alias":"A"},
+        {"id": 2, "name":"Um membro leal e confiável.", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Damon Salvatore!",
+    "B": "Stefan Salvatore!"
+  }
+}
